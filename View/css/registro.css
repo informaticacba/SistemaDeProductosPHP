@@ -1,0 +1,68 @@
+h1 {
+  font-family: calibri;
+  text-align: center;
+  font-size: 50px;
+}
+
+fieldset {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+}
+
+legend {
+  font-family: verdana;
+  font-size: 25px;
+  text-align: center;
+}
+label {
+  font-size: 20px;
+  display: block;
+}
+.la {
+  width: 95%;
+  height: 25px;
+  border-radius: 10px;
+  border: 2px solid #39c;
+  outline: none;
+  font-size: 20px;
+}
+a {
+  color: red;
+}
+.btn {
+  background-color: rebeccapurple;
+  border-radius: 25px;
+  outline: none;
+  color: white;
+  text-decoration: none;
+  border: none;
+  width: 300px;
+  height: 35px;
+  font-size: 25px;
+}
+.btn:hover {
+  cursor: pointer;
+  background-color: #eea6ee;
+}
+
+.bot {
+  background-color: black;
+  border-radius: 25px;
+  outline: none;
+  color: white;
+  text-decoration: none;
+  border: none;
+  width: 150px;
+  height: 35px;
+  font-size: 25px;
+}
+.bot:hover {
+  cursor: pointer;
+  background-color: #8d8786;
+}
+
+footer {
+  text-align: center;
+}

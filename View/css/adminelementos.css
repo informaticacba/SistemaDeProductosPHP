@@ -1,0 +1,49 @@
+header {
+  text-align: center;
+}
+#ca1 {
+  text-align: center;
+}
+#ca2 {
+  text-align: center;
+}
+.ca {
+  margin-top: 100px;
+}
+.tabla {
+  margin-left: auto;
+  margin-right: auto;
+}
+.thead {
+  background-color: #2d71f3;
+  color: white;
+}
+.thead1 {
+  background-color: #ed1b64;
+  color: white;
+}
+.thead2 {
+  background-color: #f34b2d;
+  color: white;
+}
+tr {
+  border: 2px solid;
+}
+hr {
+  border-top: 3px solid red;
+}
+.bot {
+  background-color: black;
+  border-radius: 25px;
+  outline: none;
+  color: white;
+  text-decoration: none;
+  border: none;
+  width: 150px;
+  height: 35px;
+  font-size: 25px;
+}
+.bot:hover {
+  cursor: pointer;
+  background-color: #8d8786;
+}
